@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Ahmed Shamikh
 
-You can use the [editor on GitHub](https://github.com/ashamikh/ashamikh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ahmed is a safety engineer with +4 years of experience.He received his Bachelor degree (BSc. in Nuclear and Radiation Engineering) and MEng in Nuclear Power Plant Safety in 2010 and 2012 respectively. Experienced in nuclear safety, industrialsafety, thermohydraulics, and multi-physics. Currently working on Cobra-TF thermal-hydraulics code validation with university of Pisa while actively looking forward to finding a job opportunity in Europe in my areas of expertise.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can view my resume from here [Resume](https://github.com/ashamikh/ashamikh.github.io/cv/ashamikh.pdf)/
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashamikh/ashamikh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[LinkedIn](http://linkedin.com/in/ashamikh)
+[Email](a.a.shamikh@gmail.com)
